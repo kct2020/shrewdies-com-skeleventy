@@ -1,8 +1,8 @@
-# KCT Template - Skeleventy
+# Shrewd Learning - Shrewdies.com source
 
-This template can be used to create a new website. Also, that new website can optionally include WordPress Transmigration.
+Most visitors should start with Issues or Discussions.
 
-Intention is to deploy this using Cloudflare Pages. But it should also work fine on Netlify and similar platforms. Deployment is usually done:
+Because thes notes are intended for developers who want to collaborate with coding rather than with content.
 
 1. Trial Deployment after committing 1st Config Changes (minimal changes to make sure deployment works).
 2. Import WP or Add Admin (gets content). Note, for WP Transmigration, there are steps needed to prepare the zip file for import. E.g., remove Cloudflare apps, check footer, create Simply Static file.
@@ -31,6 +31,7 @@ These are current working notes. Eventually, this is about setting colors, backg
 - site/includes/components/footer.njk: Change footer links. But these need updating as new admin pages are created. Should also include a feedback link direct to issues.
 - site/includes/components/footer.njk: Change disclaimer
 - Change favicon.icon (root) & images/meta/apple-touch-icon.png. 
+- review this README. Usually including screenshot and important user links before any technical notes.
 
 * I got confused by the way css works in this setup and I hacked the background image 
 in css/main.css and css/main.min.css which seem identical. Need to learn the 'right' way to edit css in this template! Which is probly something to do with this note in the original readme...
