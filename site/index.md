@@ -10,8 +10,8 @@ eleventyNavigation:
   order: 1
 ---
 <figure class="inner">
-<img src="images/updatethis-welcome-banner.webp" alt="UpdateThis Banner Description"  width="610" height="377">
-  <figcaption>UpdateThis Banner Description</figcaption>
+<img src="images/shrewdies-com-welcome.webp" alt="Welcome to Shrewd Learning Online"  width="377" height="610">
+  <figcaption>Welcome to Shrewd Learning Online</figcaption>
 </figure>
 
 ## {{ site.name }} Introduction
