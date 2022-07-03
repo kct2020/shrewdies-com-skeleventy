@@ -1,0 +1,24 @@
+{
+    "layout": "post",
+    "name": "UpdateThis Website Name",
+    "url": "https://updatethis.com",
+    "blog": "UpdateThis Blog",
+    "subject": "UpdateThis Site Subject",
+    "searchname": "Keith Taylor Search Engine",
+    "searchurl": "https://cse.google.com/cse?cx=e7158312c712ab2c3",
+    "author": {
+        "name": "Keith Taylor",
+        "url": "https://shrewdies.net",
+        "handle": "@keithtaylor"
+    },
+    "images": {
+        "favicon": "/favicon.png",
+        "apple_touch_icon": "/images/meta/apple-touch-icon.png",
+        "twitter": "/images/meta/twitter.jpg",
+        "og": "/images/meta/og.jpg"
+    },
+    "social_links": {
+        "github": "https://github.com/kct2020/updatethis-repo/",
+        "twitter": "https://twitter.com/keithtaylor"
+    }
+}
