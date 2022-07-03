@@ -1,9 +1,9 @@
 {
     "layout": "post",
-    "name": "UpdateThis Website Name",
-    "url": "https://updatethis.com",
-    "blog": "UpdateThis Blog",
-    "subject": "UpdateThis Site Subject",
+    "name": "Shrewd Learning",
+    "url": "https://shrewdies.com",
+    "blog": "Shrewd Learning Blog",
+    "subject": "Online Learning",
     "searchname": "Keith Taylor Search Engine",
     "searchurl": "https://cse.google.com/cse?cx=e7158312c712ab2c3",
     "author": {
@@ -18,7 +18,7 @@
         "og": "/images/meta/og.jpg"
     },
     "social_links": {
-        "github": "https://github.com/kct2020/updatethis-repo/",
+        "github": "https://github.com/kct2020/shrewdies-com-skeleventy/",
         "twitter": "https://twitter.com/keithtaylor"
     }
 }
