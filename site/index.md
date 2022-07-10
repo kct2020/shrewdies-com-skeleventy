@@ -10,7 +10,7 @@ eleventyNavigation:
   order: 1
 ---
 <figure class="inner">
-<img src="images/shrewdies-com-welcome.webp" alt="Welcome to Shrewd Learning Online"  width="377" height="610">
+<img src="images/welcome-to-shrewdies-com.webp" alt="Welcome to Shrewd Learning Online"  width="377" height="610">
   <figcaption>Welcome to Shrewd Learning Online</figcaption>
 </figure>
 
