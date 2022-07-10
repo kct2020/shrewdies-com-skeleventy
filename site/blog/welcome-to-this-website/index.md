@@ -5,7 +5,7 @@ eleventyComputed:
   title: "Welcome to {{ site.name }}"
   image_alt: "Welcome to {{ site.name }}"
 sub_heading: UpdateThis as your AIDA statement for reader engagement.
-post_image: /images/updatethis-site-welcome.webp
+post_image: /images/shrewdies-com-welcome.webp
 tags:
     - using
     - blog

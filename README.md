@@ -26,11 +26,11 @@ If you're not importing WordPress, you can optionally remove the config instruct
 These are current working notes. Eventually, this is about setting colors, background-image (if any), header images.
 
 - resources/scss/04-layout/_site.scss: change background to image to a different color. Not sure if this needs changing in main.css and/or main.min.css *
-- site/includes/components/nav.njk: Change link to WP version of About Page or to appropriate blog post. 
-- site/index.md: rewrite.
+- ✅ site/includes/components/nav.njk: Change link to WP version of About Page or to appropriate blog post. But this shouldn't be necessary - see frontmatter of index.md because relevant blog (or other page) should be capable of linking without editing nav.njk
+- ✅ site/index.md: rewrite.
 - site/includes/components/footer.njk: Change footer links. But these need updating as new admin pages are created. Should also include a feedback link direct to issues.
 - site/includes/components/footer.njk: Change disclaimer
-- Change favicon.icon (root) & images/meta/apple-touch-icon.png. 
+- ✅ Change favicon.icon (root) & images/meta/apple-touch-icon.png. 
 - review this README. Usually including screenshot and important user links before any technical notes.
 
 * I got confused by the way css works in this setup and I hacked the background image 
