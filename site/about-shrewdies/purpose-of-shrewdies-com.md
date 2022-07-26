@@ -15,7 +15,7 @@ tags:
 <h2 id="intro">Purpose of {{ site.domain }}</h2>
     <p>Currently, Shrewdies.com has 2 purposes:</p>
 <h3 id="docs">1) Shrewd Learning Services Documentation</h3>
-<p>I provide several resorces and other support services that help people learn online. So I use Shrewdies.com to provide documentation for those services.</p>
+<p>I provide several resources and other support services that help people learn online. So I use Shrewdies.com to provide documentation for those services.</p>
 <h3 id="subject">2) New Shrewd Learning Subjects</h3>
 My current subjects are:<ul>
 <li>This learning website.</li>
