@@ -13,6 +13,15 @@ tags:
 ---
 
 <h2 id="intro">Purpose of {{ site.domain }}</h2>
+    <p>Currently, Shrewdies.com has 2 purposes:</p>
+<h3 id="docs">1) Shrewd Learning Services Documentation</h3>
+<p>I provide several resorces and other support services that help people learn online. So I use Shrewdies.com to provide documentation for those services.</p>
+<h3 id="subject">2) New Shrewd Learning Subjects</h3>
+My current subjects are:<ul>
+<li>This learning website.</li>
+<li>GoutPal for gout topics.</li>
+<li>Foodary and related sites for food topics</li>
+</ul><p>However, I intend to collaborate with learners to cover as many subjects as we are interested in. So I will start with articles about other topics here. Then add articles until I have 50 that represent an interesting subject. At which time, I will consider if that subject deserves a separate website.</p>
 
 <h2 id="statement">Purpose Statement for {{ site.domain }}</h2>
 <q>The purpose of Shrewdies.com is to explain Shrewd Learning Services and to evolve new Shrewd Learning Projects.</q>
@@ -31,10 +40,10 @@ In the first case, continue to browse these 'About' pages. Then browse facts, ex
 In the second case, start a project now by writing down why you want to learn about your chosen topic. And what you hope to achieve. Then join the Notification service. So you'll get a message when my learning project guidelines are available.
 
 <hr />
-Leave Purpose of {{ site.domain }} to read more <a href="about-shrewdies-com.html">about {{ site.domain }}</a>.
+Leave Purpose of {{ site.domain }} to read more <a href="about-shrewdies-com">about {{ site.domain }}</a>.
 
 <h4 id="feedback">{{ title }} Feedback</h4>
-Your feedback helps me prioritize adding more articles. In particular, I'd love to know if you want extra "Website Admin" articles. But I also need to know about anything you would change to make this page more useful. So please share your thoughts about <a href="{{ site.social_links.github }}issues/new/choose">improving this page</a>. Or <a href="{{ site.social_links.github }}discussions">discuss your {{ topic }} concerns with other gout sufferers</a>. Also, you can add comments below using my ShrewdChat service.
+Your feedback helps me prioritize adding more articles. In particular, I'd love to know if you want extra "Website Admin" articles. But I also need to know about anything you would change to make this page more useful. So please share your thoughts about <a href="{{ site.social_links.github }}issues/new/choose">improving this page</a>. Or <a href="{{ site.social_links.github }}discussions">discuss your {{ topic }} concerns with other gout sufferers</a>. Also, you can add comments below using my GitHub-based ShrewdChat service.
 
 If you are asking a question, it's best to:
 1. Search for that question in <a href="{{ site.searchurl }}">{{ site.searchname }}</a> first.
